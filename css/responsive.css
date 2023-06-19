@@ -330,6 +330,11 @@
     .input_radio {
         height: 32px;
     }
+    
+    .contact ::placeholder,
+    select {
+        font-size: 14px;
+    }
 
     .journey-detail .select .arrow {
         top: 6px;
