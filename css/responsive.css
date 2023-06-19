@@ -1,0 +1,416 @@
+@media (min-width: 992px) and (max-width: 1199.98px) {
+    .banner-content {
+        height: 520px;
+    }
+}
+
+@media (min-width: 768px) and (max-width: 991.98px) {
+    :root {
+        --h1-font-size : 38px;
+        --h2-font-size : 31px;
+        --h3-font-size : 26px;
+        --h4-font-size : 22px;
+        --h5-font-size : 18px;
+        --h6-font-size : 15px;
+        --font-size : 15px;
+    }
+
+    .section {
+        padding: 64px 0;
+    }
+
+    .section-title-gap {
+        margin-top: 48px;
+    }
+    
+    .banner-content {
+        height: 500px;
+    }
+
+    .banner-badge {
+        height: 130px;
+        width: 130px;
+    }
+
+    .badge-content {
+        transform: translateY(30%);
+        -webkit-transform: translateY(30%);
+        -moz-transform: translateY(30%);
+        -ms-transform: translateY(30%);
+        -o-transform: translateY(30%);
+    }
+
+    .home-badge {
+        left: 6%;
+        bottom: 10%;
+    }
+
+    .badge-content span {
+        font-size: 16px;
+    }
+
+    .badge-content .year {
+        font-size: 24px;
+    }
+
+    .res-device {
+        margin-top: 16px;
+    }
+
+    .welcome-image {
+        height: 380px;
+    }
+
+    .service .res-device {
+        margin-top: 20px;
+    }
+
+    .coverage .res-device {
+        margin-top: 20px;
+    }
+
+    .airport-coverage .res-device {
+        margin-top: 20px;
+    }
+
+    .about-badge {
+        top: 308px;
+    }
+}
+
+@media (min-width: 576px) and (max-width: 767.98px) {
+    :root {
+        --h1-font-size : 36px;
+        --h2-font-size : 30px;
+        --h3-font-size : 25px;
+        --h4-font-size : 21px;
+        --h5-font-size : 17px;
+        --h6-font-size : 15px;
+        --font-size : 15px;
+    }
+
+    .section {
+        padding: 64px 0;
+    }
+
+    .section-title-gap {
+        margin-top: 48px;
+    }
+    
+    .banner-content {
+        height: 480px;
+    }
+
+    .banner-badge {
+        height: 120px;
+        width: 120px;
+    }
+
+    .badge-content {
+        transform: translateY(30%);
+        -webkit-transform: translateY(30%);
+        -moz-transform: translateY(30%);
+        -ms-transform: translateY(30%);
+        -o-transform: translateY(30%);
+    }
+
+    .home-badge {
+        left: 4%;
+        bottom: 10%;
+    }
+
+    .badge-content span {
+        font-size: 15px;
+    }
+
+    .badge-content .year {
+        font-size: 22px;
+    }
+
+    .res-device,
+    .sm-device {
+        margin-top: 16px;
+    }
+
+    .welcome-image {
+        height: 340px;
+    }
+
+    .service .res-device,
+    .sm-device {
+        margin-top: 20px;
+    }
+
+    .coverage .res-device {
+        margin-top: 20px;
+    }
+
+    .airport-coverage .res-device {
+        margin-top: 20px;
+    }
+
+    .about-badge {
+        top: 280px;
+    }
+
+    .btn-one {
+        padding: 6px 14px;
+    }
+
+    .choose .cho {
+        margin-top: 10px;
+        width: 50% !important;
+    }
+
+    .clients img {
+        width: 100%;
+    }
+
+    .testi-model-one-inner {
+        margin-left: 0px;
+        border-left: transparent;
+    }
+}
+
+@media (max-width: 991.98px) {
+    .main-header {
+        display: none;
+    }
+
+    .mobile-header {
+        display: block;
+    }
+
+    .hero-area .ban-next, 
+    .ban-prev {
+        display: none !important;
+    }
+
+    .brand-about .center {
+        justify-content: center !important;
+    }
+
+    .center-area .center {
+        justify-content: center !important;
+    }
+
+    .center-area .mt-5 {
+        margin-top: 1rem !important;
+    }
+}
+
+@media (max-width: 575.98px) {
+    :root {
+        --h1-font-size : 33px;
+        --h2-font-size : 27px;
+        --h3-font-size : 23px;
+        --h4-font-size : 19px;
+        --h5-font-size : 16px;
+        --h6-font-size : 14px;
+        --font-size : 14px;
+    }
+
+    .section {
+        padding: 48px 0;
+    }
+
+    .section-title-gap {
+        margin-top: 32px;
+    }
+
+    .mobile-header .logo img {
+        width: 120px;
+    }
+    
+    .banner-content {
+        height: 400px;
+    }
+
+    .banner-inner h5 {
+        margin: 24px 0 12px;
+    }
+
+    .banner-inner .action a i {
+        font-size: 20px;
+    }
+
+    .banner-badge {
+        display: none;
+    }
+
+    .banner-bottom {
+        padding: 24px 0;
+    }
+
+    .res-device,
+    .sm-device {
+        margin-top: 16px;
+    }
+
+    .welcome-image {
+        height: 320px;
+    }
+
+    .service .res-device,
+    .sm-device {
+        margin-top: 20px;
+    }
+
+    .coverage .res-device {
+        margin-top: 20px;
+    }
+
+    .airport-coverage .res-device {
+        margin-top: 20px;
+    }
+
+    .about-badge {
+        top: 280px;
+    }
+
+    .btn-one {
+        padding: 6px 14px;
+    }
+
+    .choose .cho {
+        margin-top: 10px;
+        width: 50% !important;
+    }
+
+    .clients img {
+        width: 100%;
+    }
+
+    .clients .row {
+        justify-content: center !important;
+    }
+
+    .testi-model-one-inner {
+        margin-left: 0px;
+        border-left: transparent;
+    }
+
+    .per-img {
+        right: 24px;
+        bottom: -40px;
+    }
+
+    .col-device {
+        margin-top: 20px;
+    }
+
+    footer .row {
+        justify-content: center !important;
+    }
+
+    footer .pay-img {
+        margin-top: 12px;
+    }
+
+    .footer-title {
+        margin-top: 12px;
+        text-align: center;
+    }
+
+    .model-one-inner-content {
+        margin-left: 0;
+    }
+
+    .model-one-inner-content .rating {
+        font-size: 24px;
+        font-weight: 500;
+    }
+
+    .powered-by img {
+        width: 60%;
+    }
+
+    .contact input, 
+    select, 
+    .input_radio {
+        height: 32px;
+    }
+
+    .journey-detail .select .arrow {
+        top: 6px;
+        font-size: 17px;
+    }
+
+    .journey-detail .mt-5 {
+        margin-top: 1rem !important;
+    }
+
+    .hero-area .slick-dots {
+        display: none !important;
+    }
+
+    .img-text span {
+        font-size: 16px;
+        line-height: 1.2;
+    }
+
+    .img-text i {
+        font-size: 20px;
+    }
+    
+    .welcome-right {
+        border-left: 2px solid transparent;
+    }
+
+    .welcome-right .right-inner {
+        margin-left: 0;
+    }
+
+    .main-mobile-menu ul li a {
+        font-size: 15px;
+    }
+
+    .mobile-menu .m-logo img {
+        width: 104px;
+    }
+
+    .brand-about-content {
+        border-left: 2px solid transparent;
+    }
+
+    .content-inner {
+        margin-left: 0;
+    }
+
+    .contact-welcome .wel-right {
+        border-left: 1px solid transparent;
+    }
+
+    .contact-welcome .left-inner {
+        padding-left: 0;
+    }
+
+    .mobile-header .offcanvas, .offcanvas-lg, .offcanvas-md, .offcanvas-sm, .offcanvas-xl, .offcanvas-xxl {
+        --bs-offcanvas-width: 250px;
+    }
+}
+
+@media (max-width: 380.98px) {
+    :root {
+        --h1-font-size : 30px;
+        --h2-font-size : 25px;
+        --h3-font-size : 21px;
+        --h4-font-size : 17px;
+        --h5-font-size : 15px;
+        --h6-font-size : 14px;
+        --font-size : 14px;
+    }
+
+    .per-img {
+        right: 24px;
+        bottom: -30px;
+    }
+
+    .mobile-header .offcanvas, .offcanvas-lg, .offcanvas-md, .offcanvas-sm, .offcanvas-xl, .offcanvas-xxl {
+        --bs-offcanvas-width: 240px;
+    }
+
+    .banner-bottom {
+        padding: 16px 0;
+    }
+}
